@@ -1,2 +1,2 @@
-# project-budget-app
-Budget app 
+# budget-app
+💰 A budget app with JavaScript.
